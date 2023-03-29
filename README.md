@@ -41,6 +41,7 @@ Cluster 3: High Income, High Spending Score
 Cluster 4: Low Income, High Spending Score
 Cluster 5: Low Income, Low Spending Score
 
+
 ![image](https://user-images.githubusercontent.com/60544331/228571221-339fe5cd-b0aa-4666-a8bd-af6d45af566c.png)
 
 ## 📌 Conclusions
