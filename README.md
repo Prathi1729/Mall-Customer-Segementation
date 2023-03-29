@@ -48,18 +48,3 @@ Cluster 3 is the most desirable group to belong to since their spending score is
 Cluster 4 is a high-risk group due to the fact that they do not have the capability of spending money, yet they have a high spending score. Consumers need to be provided with additional coupons that are based on discounts.
 
 Cluster 5 should be disregarded since it does not have the financial capability to spend and it does not shown any interest in spending.
-## 👑Findings
-(i) Production wise top zone is South zone with Kerala topping it's high crop production.
-
-(ii) Production wise top crop type are Coconut, Sugarcane and Rice.
-Total Production hit peak in the year 2011 and 2013.
-
-(iii) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
-
-(iv) Top crop categories are Cereal, Pulses and Oilseeds.
-
-(v) Top producing state Kerela shows a abundance of whole year seasonal crops.
-
-(vi) Top producing state Uttar Pradesh shows abundance of Kharif, Rabi and Summar crops.
-
-(vii) Top Crop Categories are Cereal(27.5), Pulses(17.8) and oilseeds(14.7) and these crops contribute towards 60% of total crop production.
