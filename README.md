@@ -27,7 +27,13 @@ To apply the elbow point method, one would typically follow these steps:
 
 The optimal number of clusters is subjective and depends on the specific application and domain knowledge. However, the elbow point method is a useful tool for determining a reasonable range of values for k and provides a visual aid for interpreting the results of clustering algorithms.
 
+![image](https://user-images.githubusercontent.com/60544331/228570849-7fa1eeab-0149-42f8-aafd-eb9ae02fc286.png)
+
+
 ## 🐈 Visualizing all the Clusters
+
+![image](https://user-images.githubusercontent.com/60544331/228571094-4cdf9a54-24b2-4b9b-838c-4bc0531fa6c2.png)
+
 
 Cluster 1: High Income, Low Spending Score
 Cluster 2: Average Income, Average Spending Score
@@ -35,6 +41,7 @@ Cluster 3: High Income, High Spending Score
 Cluster 4: Low Income, High Spending Score
 Cluster 5: Low Income, Low Spending Score
 
+![image](https://user-images.githubusercontent.com/60544331/228571221-339fe5cd-b0aa-4666-a8bd-af6d45af566c.png)
 
 ## 📌 Conclusions
 According to the findings of the study, the following are the concluding observations drawn from the dataset about each cluster:
