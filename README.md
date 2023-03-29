@@ -31,15 +31,13 @@ The optimal number of clusters is subjective and depends on the specific applica
 
 
 ## 🐈 Visualizing all the Clusters
-
-![image](https://user-images.githubusercontent.com/60544331/228571094-4cdf9a54-24b2-4b9b-838c-4bc0531fa6c2.png)
-
-
 Cluster 1: High Income, Low Spending Score
 Cluster 2: Average Income, Average Spending Score
 Cluster 3: High Income, High Spending Score
 Cluster 4: Low Income, High Spending Score
 Cluster 5: Low Income, Low Spending Score
+
+![image](https://user-images.githubusercontent.com/60544331/228571094-4cdf9a54-24b2-4b9b-838c-4bc0531fa6c2.png)
 
 
 ![image](https://user-images.githubusercontent.com/60544331/228571221-339fe5cd-b0aa-4666-a8bd-af6d45af566c.png)
